@@ -4,7 +4,7 @@ workers_dev = true
 account_id = "b90d2524a32a3f6782bdc39c3629305b"
 
 kv_namespaces = [
-  { binding = "KV", id = "cd16d4566ec0408d84989e51f82488bc" }
+  { binding = "KV", id = "d4b05f679a054aeeb2203549d2264e03" }
 ]
 
 [triggers]
